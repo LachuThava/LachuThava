@@ -1,16 +1,47 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**LachuThava/LachuThava** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Profile Views](https://komarev.com/ghpvc/?username=LachuThava&color=green&style=plastic)
 
-Here are some ideas to get you started:
+I’m **Lachu Thava** – a passionate developer working on modern web applications and cloud solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🌱 Currently Learning
+- Advanced **Spring Boot & WebFlux**
+- **Next.js** and React ecosystem
+- **AWS**, Docker, Kubernetes, DevOps practices
+
+---
+
+## 🛠 Tech Stack
+- **Languages:** Java, TypeScript, JavaScript  
+- **Backend:** Spring Boot, WebFlux, REST APIs  
+- **Frontend:** React, Next.js, Tailwind CSS  
+- **Cloud & DevOps:** AWS, Docker, Kubernetes, Jenkins  
+- **Database:** MongoDB, MySQL  
+- **Tools:** Git, GitHub, VS Code, Postman  
+
+---
+
+## 💬 Ask Me About
+- Java & Spring Boot  
+- React & Next.js  
+- Cloud deployments and CI/CD pipelines  
+
+---
+
+## 📫 How to Reach Me
+- Email: your-email@example.com  
+- LinkedIn: https://www.linkedin.com/in/laksman-thavakodirasa-6a39311a4/  
+- GitHub: [github.com/LachuThava](https://github.com/LachuThava)  
+
+---
+
+## ⚡ Fun Fact
+I love solving tricky bugs late at night 🌙 and exploring new technologies 🚀  
+
+---
+
+### 📊 GitHub Stats
+![LachuThava's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LachuThava&show_icons=true&theme=radical)
+
