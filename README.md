@@ -31,7 +31,7 @@ I’m **Lachu Thava** – a passionate developer working on modern web applicati
 ---
 
 ## 📫 How to Reach Me
-- Email: your-email@example.com  
+- Email: tlaksman932@gmail.com  
 - LinkedIn: https://www.linkedin.com/in/laksman-thavakodirasa-6a39311a4/  
 - GitHub: [github.com/LachuThava](https://github.com/LachuThava)  
 
