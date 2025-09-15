@@ -42,6 +42,6 @@ I love solving tricky bugs late at night 🌙 and exploring new technologies �
 
 ---
 
-### 📊 GitHub Stats
-![LachuThava's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LachuThava&show_icons=true&theme=radical)
+![LachuThava's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LachuThava&show_icons=true&theme=github_dark)
+
 
