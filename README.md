@@ -6,13 +6,6 @@ I’m **Lachu Thava** – a passionate developer working on modern web applicati
 
 ---
 
-## 🌱 Currently Learning
-- Advanced **Spring Boot & WebFlux**
-- **Next.js** and React ecosystem
-- **AWS**, Docker, Kubernetes, DevOps practices
-
----
-
 ## 🛠 Tech Stack
 - **Languages:** Java, TypeScript, JavaScript  
 - **Backend:** Spring Boot, WebFlux, REST APIs  
